@@ -1,4 +1,4 @@
-Mobile App Dev - App Brainstorming NOTExample
+Mobile App Dev - App Brainstorming
 ===
 
 ## Favorite Existing Apps - List
