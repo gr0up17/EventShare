@@ -14,10 +14,55 @@ A common place to track all social events happening nearby. The app has location
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+## 1. User Stories (Required and Optional)
 
----
+**Required Must-have Stories**
+
+ * User can register for an account
+ * User can login
+ * User can see a feed of all the events nearby
+ * User can create an event
+
+**Optional Nice-to-have Stories**
+
+ * User can pick events and make a schedule
+ * User can share the event details with friends
+ * User can check-in to events
+ * User can RSVP to events
+ * User can post photos and tag people
+ * User can get an estimated time of arrival at the event
+ * User can view event locations on a map
+ * User can see a history of all the events they have been to on their profile
+
+## 2. Screen Archetypes
+
+ * Login
+   * User can login
+ * Register
+   * User can register for an account
+ * Stream
+   * User can see a feed of all the events nearby
+ * Creation
+   * User can create an event
+ 
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Profile
+ * Stream
+   * User can see a feed of all the events nearby
+ * Create
+   * User can create an event
+
+**Flow Navigation** (Screen to Screen)
+ 
+ * Register/Login
+   * Stream
+ * Stream
+   * Detail
+ * Creation
+   * Stream
 
 ### Wireframes
 // TODO: Add Wireframe Images
