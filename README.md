@@ -65,6 +65,7 @@ A common place to track all social events happening nearby. The app has location
    * Stream
 
 ### Wireframes
+https://www.figma.com/file/Jh8EktWkx2fpkYz3nOUAFSrH/EventShare-User-Stories?node-id=0%3A1
 <img src="https://media.giphy.com/media/2zotXdo3mTCnih4NyZ/giphy.gif" width=200><br>
 
 ---
