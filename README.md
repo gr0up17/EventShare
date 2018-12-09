@@ -73,3 +73,6 @@ https://www.figma.com/file/Jh8EktWkx2fpkYz3nOUAFSrH/EventShare-User-Stories?node
 
 ### App Pitch Presentation
 https://docs.google.com/presentation/d/1Dob5ffRv_1T0ZrNTwf3NmMByBMv2hVANLSp8RQikQ-A/edit?usp=sharing
+
+### App Pitch Video
+https://www.youtube.com/watch?v=7HCJA2LhlMQ
